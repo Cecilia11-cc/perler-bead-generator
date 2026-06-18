@@ -29,7 +29,7 @@
 
 ```bash
 pip install numpy matplotlib Pillow
-
+```
 
 ## 灵感与致谢
 
